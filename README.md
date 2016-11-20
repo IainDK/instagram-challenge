@@ -1,24 +1,7 @@
-# README
+## Makers Academy | Week 8 | Instagram Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This objective of this program is to build a clone of Instagram using Ruby on Rails.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To view a full list of features I have attempted to implement, please refer to the [user stories](https://github.com/IainDK/instagram-challenge/blob/master/USER_STORIES.md).
